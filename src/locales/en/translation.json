@@ -1,0 +1,10 @@
+{
+    "navbar": {
+        "home": "Home",
+        "products": "Products",
+        "about": "About",
+        "change_language": "Change Language"
+    },
+    "search": "Search",
+    "popular": "Popular"
+}

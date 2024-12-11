@@ -1,0 +1,10 @@
+{
+    "navbar": {
+        "home": "Главная",
+        "products": "Продукты",
+        "about": "О нас",
+        "change_language": "Изменить язык"
+    },
+    "search": "Поиск",
+    "popular": "Популярное"
+}
